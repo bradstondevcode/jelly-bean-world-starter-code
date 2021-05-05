@@ -1,0 +1,7 @@
+applications:
+  - name: Jelly Bean World
+memory: 64M
+path: build/
+buildpack: staticfile_buildpack 
+routes:
+  - route: jelly-bean-world-<your-initials>.<region-server>.cf.appdomain.cloud
