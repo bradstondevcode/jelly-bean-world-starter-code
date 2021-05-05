@@ -61,7 +61,7 @@ function deleteWorld(){
 ```
 
 
-#### Get World
+#### Update Jellybean World
 
 ```javascript
 function updateJellyBeanCount(){
