@@ -3,7 +3,7 @@
 ## Cloundant DB Service Code Snippets
 
 
-####Get Worlds
+#### Get Worlds
 
 ```javascript
 function getWorlds(){
@@ -17,7 +17,7 @@ function getWorlds(){
 }
 ```
 
-####Get World
+#### Get World
 
 ```javascript
 function getWorld(){
@@ -31,7 +31,7 @@ function getWorld(){
 }
 ```
 
-####Create World
+#### Create World
 
 ```javascript
 function createWorld(){
@@ -47,7 +47,7 @@ function createWorld(){
 ```
 
 
-####Delete World
+#### Delete World
 
 ```javascript
 function deleteWorld(){
@@ -61,7 +61,7 @@ function deleteWorld(){
 ```
 
 
-####Get World
+#### Get World
 
 ```javascript
 function updateJellyBeanCount(){
