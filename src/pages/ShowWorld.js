@@ -6,8 +6,8 @@ import Matter from 'matter-js'
 import {createVertexSetFromSVG} from '../services/SVGUtilities'
 import MatterWrap from 'matter-wrap'
 
-// import {getWorld, deleteWorld, updateJellyBeanCount} from '../services/CloudantDBService'
-import {getWorld, deleteWorld, updateJellyBeanCount} from '../services/JellyBeanAPIService' //Node Server Enpoint Service
+import {getWorld, deleteWorld, updateJellyBeanCount} from '../services/CloudantDBService'
+// import {getWorld, deleteWorld, updateJellyBeanCount} from '../services/JellyBeanAPIService' //Node Server Enpoint Service
 
 import {ReactComponent as JellyBeanLogo} from '../images/JellybeanSiteJellybeanWorldLogo.svg'
 import JellyBeanButtonImageYellow from "../images/Bean1Yellow.png";
