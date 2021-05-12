@@ -1,5 +1,7 @@
 # Jellybean World React App Starter code
 
+Code used in [React and Cloudant Workshop](https://github.com/bradstondevcode/React-and-Databasing-Basics-of-Cloudant-Workshop)
+
 ## Cloundant DB Service Code Snippets
 
 
